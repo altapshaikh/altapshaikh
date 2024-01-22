@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @altapshaikh
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on java
 - 📫 How to reach me altap_shaikh111@rediffmail.com
 
