@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I enjoy building scalable systems and experimenting with new tech stacks 😎  
 
 ---
-## 👀 Profile Views
+## 👀 Profile Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=altapshaikh&label=PROFILE+VIEWS&color=blue&style=flat)  
 ---
 ## 🌐 Connect with Me
