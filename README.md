@@ -25,9 +25,6 @@
 <!-- Core Stacks -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="50" height="50"/> 
-<img src="https://img.icons8.com/external-outline-juicy-fish/60/000000/external-microservices-cloud-computing-outline-outline-juicy-fish.png" alt="microservices" width="50" height="50"/> 
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-devops-agile-flaticons-lineal-color-flat-icons.png" alt="devops" width="50" height="50"/> 
-
 <!-- DevOps & Infra -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
