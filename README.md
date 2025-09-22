@@ -11,7 +11,9 @@
 - ⚡ Fun fact: I enjoy building scalable systems and experimenting with new tech stacks 😎  
 
 ---
-
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=altapshaikh&label=PROFILE+VIEWS&color=blue&style=flat)  
+---
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/altapshaikh)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
@@ -55,8 +57,7 @@
 
 ---
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=altapshaikh&label=PROFILE+VIEWS&color=blue&style=flat)  
+
 
 ---
 
